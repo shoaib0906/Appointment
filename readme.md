@@ -1,19 +1,16 @@
-# LaraAppointments: Laravel 5.5 based system for various small businesses to manage their appointment calendar.
-
-I have customized whole Laraappointments to my own style.
-Like Social Media Login and Some Cosmetic and functional Change.
+# I have customized whole Laraappointments to my own style.
+# Like Social Media Login and Some Cosmetic and functional Change.
 
 It is a demo project for demonstrating what can be generated with [QuickAdminPanel](https://quickadminpanel.com) tool.
 LaraAppointments is all generated with __QuickAdmin__ except for custom code for __Calendar__ functionality.
 
-## Clickable live-demo
-
-[demo-appointments.quickadminpanel.com](http://demo-appointments.quickadminpanel.com)
 
 - __Email__: admin@admin.com
 - __Pass__: password
+![Laravel login screenshot](https://github.com/shoaib0906/Appontment/blob/master/screencapture-localhost-appoint-login-2020-07-15-12_47_45.png)
 
-![Laravel appointments screenshot](https://quickadminpanel.com/assets/pages/demos/demo-appointments-01.png)
+![Laravel appointments screenshot](https://github.com/shoaib0906/Appontment/blob/master/screencapture-localhost-appoint-admin-appointments-2020-07-15-12_47_27.png)
+(https://github.com/shoaib0906/Appontment/blob/master/appointment.PNG)
 
 ## How to use
 
